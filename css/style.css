@@ -1,0 +1,11 @@
+h1 {
+    text-align: center;
+}
+input [type="text"]{
+    size: 46;
+}
+input[type="submit"] {
+    width: 300px;
+    background-color: #4F4F4F;
+    text-align: #DCDCDC;
+}
